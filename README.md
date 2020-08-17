@@ -1,2 +1,2 @@
 # machine-learning
-this repository is a documentation of EDA, and deep learning models. 
+This repository contents code with documentation for EDA (exploratory data analysis), and deep learning models. 
